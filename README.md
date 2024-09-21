@@ -38,7 +38,12 @@ The dataset includes the following columns:
 
 ## Visualizations
 
-Here is a sample correlation heatmap, showing the relationships between key features:
+ correlation heatmap, showing the relationships between key features:
 
 ![correlation](https://github.com/user-attachments/assets/0edd586d-26d0-40dc-bcc9-a93acbeefd4f)
+
+Feature selection using Lasso
+
+![lasso](https://github.com/user-attachments/assets/54862b4d-7929-465b-bc4c-99344b617370)
+
 
