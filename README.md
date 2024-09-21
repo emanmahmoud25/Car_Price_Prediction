@@ -1,7 +1,7 @@
 
 # Car Price Prediction
 
-![car](https://github.com/user-attachments/assets/f348ef40-13d1-4036-9310-0cbe284edda7)
+![car](https://github.com/user-attachments/assets/7d4304bb-6c07-46a3-99e0-ab70bb5de8fb)
 
 This project focuses on predicting the selling price of used cars based on various features using machine learning techniques. The dataset contains essential car attributes, such as the year of manufacture, current price, kilometers driven, fuel type, and others, which influence the selling price.
 
