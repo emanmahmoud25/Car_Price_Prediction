@@ -5,6 +5,9 @@
 
 This project focuses on predicting the selling price of used cars based on various features using machine learning techniques. The dataset contains essential car attributes, such as the year of manufacture, current price, kilometers driven, fuel type, and others, which influence the selling price.
 
+Developed a regression model to predict used car prices based on key features such as manufacturing year, kilo-meters driven, fuel type, and vehicle specifications. Conducted data preprocessing, exploratory data analysis, and outlier treatment using the Box-Cox transformation to enhance data distribution and model performance. Trained
+and evaluated multiple regression models including Gradient Boosting (97% accuracy, R2), Decision Tree (96%accuracy, R2), and Lasso Regression (95% accuracy, R2) using Python and Scikit-learn
+
 ## Dataset
 
 The dataset includes the following columns:
